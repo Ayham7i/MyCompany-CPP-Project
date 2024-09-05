@@ -1,0 +1,6 @@
+﻿  My Company.cpp
+E:\source\repos\My Company\My Company\My Company.cpp(71,3): warning C4102: 'n': unreferenced label
+E:\source\repos\My Company\My Company\My Company.cpp(219,2): warning C4102: 'm': unreferenced label
+E:\source\repos\My Company\My Company\My Company.cpp(496,6): warning C4102: 'START': unreferenced label
+E:\source\repos\My Company\My Company\My Company.cpp(499,7): warning C4101: 'ch': unreferenced local variable
+  My Company.vcxproj -> E:\source\repos\My Company\x64\Debug\My Company.exe
