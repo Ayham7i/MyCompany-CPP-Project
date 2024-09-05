@@ -1,1 +1,1 @@
-# MyCompany-C-Project
+# MyCompany-CPP-Project
